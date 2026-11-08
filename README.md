@@ -1,2 +1,2 @@
 # OS-1SEM-F10
- This repository contains 10 practical programs for the Operating Systems subject. Each program is organized around a specific function or concept and can be run from the terminal, making the collection easy to use, test, and learn from. 
+ This repository contains first 10 practical programs for the Operating Systems subject. Each program is organized around a specific function or concept and can be run from the terminal, making the collection easy to use, test, and learn from. 
